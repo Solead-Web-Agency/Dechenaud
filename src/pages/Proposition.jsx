@@ -131,9 +131,9 @@ export default function Proposition(){
 
           <div className="block">
             <div className="block-head"><div className="bt"><span className="tag">Volet 1 · One-shot</span><h3>Création du site web</h3></div><div className="block-total"><b>13 500 €</b><small>HT</small></div></div>
-            <div className="otrow"><div className="lbl"><b>Chefferie de projet</b><span>Pilotage, coordination, suivi et recette tout au long de la refonte.</span></div><div className="amt">6 000 €<small>HT</small></div></div>
+            <div className="otrow"><div className="lbl"><b>Chefferie de projet</b><span>Pilotage, coordination, suivi et recette tout au long de la refonte.</span></div><div className="amt">3 500 €<small>HT</small></div></div>
             <div className="otrow"><div className="lbl"><b>Design &amp; adaptation charte graphique</b><span>Maquettes des pages clés, déclinaison de l'univers Dechenaud, design system.</span></div><div className="amt">3 500 €<small>HT</small></div></div>
-            <div className="otrow"><div className="lbl"><b>Développement opéré par IA</b><span>Intégration PrestaShop du site, accélérée par une production assistée par IA.</span></div><div className="amt">4 000 €<small>HT</small></div></div>
+            <div className="otrow"><div className="lbl"><b>Développement opéré par IA</b><span>Intégration PrestaShop du site, accélérée par une production assistée par IA.</span></div><div className="amt">6 500 €<small>HT</small></div></div>
           </div>
 
           <div className="block">
