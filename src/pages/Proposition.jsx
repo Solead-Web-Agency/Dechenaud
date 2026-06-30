@@ -126,15 +126,14 @@ export default function Proposition(){
           <span className="badge-ia">◆ Site PrestaShop · Développement IA</span>
           <div className="dsec-head">
             <h2>Le détail de l'offre</h2>
-            <p>Trois volets distincts : la création du site, l'accompagnement SEO de la refonte, et le suivi SEO récurrent. Chacun peut être engagé indépendamment.</p>
+            <p>Quatre volets distincts : la création du site, l'accompagnement SEO de la refonte, le suivi SEO récurrent et la TMA optionnelle. Chacun peut être engagé indépendamment.</p>
           </div>
 
           <div className="block">
-            <div className="block-head"><div className="bt"><span className="tag">Volet 1 · One-shot</span><h3>Création du site web</h3></div><div className="block-total"><b>14 500 €</b><small>HT</small></div></div>
+            <div className="block-head"><div className="bt"><span className="tag">Volet 1 · One-shot</span><h3>Création du site web</h3></div><div className="block-total"><b>13 500 €</b><small>HT</small></div></div>
             <div className="otrow"><div className="lbl"><b>Chefferie de projet</b><span>Pilotage, coordination, suivi et recette tout au long de la refonte.</span></div><div className="amt">6 000 €<small>HT</small></div></div>
             <div className="otrow"><div className="lbl"><b>Design &amp; adaptation charte graphique</b><span>Maquettes des pages clés, déclinaison de l'univers Dechenaud, design system.</span></div><div className="amt">3 500 €<small>HT</small></div></div>
             <div className="otrow"><div className="lbl"><b>Développement opéré par IA</b><span>Intégration PrestaShop du site, accélérée par une production assistée par IA.</span></div><div className="amt">4 000 €<small>HT</small></div></div>
-            <div className="otrow"><div className="lbl"><b>Crédits temps TMA</b><span>Tierce maintenance applicative — 10 heures d'intervention incluses.</span></div><div className="amt">1 000 €<small>10 h · HT</small></div></div>
           </div>
 
           <div className="block">
@@ -150,10 +149,16 @@ export default function Proposition(){
             <div className="otrow"><div className="lbl"><b>Contenu &amp; optimisations</b><span>Production de contenu, recommandations et ajustements continus.</span></div><div className="amt">mensuel</div></div>
           </div>
 
+          <div className="block">
+            <div className="block-head"><div className="bt"><span className="tag">Volet 4 · Optionnel</span><h3>Tierce maintenance applicative</h3></div><div className="block-total"><b>1 000 €</b><small>10 h · HT</small></div></div>
+            <div className="otrow"><div className="lbl"><b>Crédits temps TMA</b><span>Tierce maintenance applicative — 10 heures d'intervention incluses pour les évolutions et correctifs après lancement.</span></div><div className="amt">1 000 €<small>10 h · HT</small></div></div>
+          </div>
+
           <div className="recap">
-            <div className="rc"><div className="t-lbl">Site web</div><div className="t-amt">14 500 € <em>HT</em></div><div className="t-sub">Création complète, livrée clé en main.</div></div>
+            <div className="rc"><div className="t-lbl">Site web</div><div className="t-amt">13 500 € <em>HT</em></div><div className="t-sub">Création complète, livrée clé en main.</div></div>
             <div className="rc"><div className="t-lbl">SEO refonte (one-shot)</div><div className="t-amt">5 000 € <em>HT</em></div><div className="t-sub">Audit, mots-clés, migration sécurisée.</div></div>
             <div className="rc"><div className="t-lbl">SEO mensuel (récurrent)</div><div className="t-amt">1 500 € <em>HT / mois</em></div><div className="t-sub">Suivi continu après lancement.</div></div>
+            <div className="rc"><div className="t-lbl">TMA (optionnel)</div><div className="t-amt">1 000 € <em>HT</em></div><div className="t-sub">10 h d'intervention après lancement.</div></div>
           </div>
         </div>
       </section>
